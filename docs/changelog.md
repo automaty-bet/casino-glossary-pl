@@ -13,6 +13,12 @@ Format opiera się na [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/), 
 - Pierwsza wersja widgetu do osadzania (`widget/`).
 - Pierwsze przykłady integracji (`examples/`).
 
+## [0.2.1] - 2026-05-19
+
+### Dodano
+
+- Added "Źródła wiedzy" section to README with 20 deep links to Automaty.bet pillars (mirror sites SEO optimization).
+
 ## [0.2.0] - 2026-05-19
 
 ### Dodano

@@ -69,6 +69,40 @@ Zobacz [CONTRIBUTING.md](./CONTRIBUTING.md). Nowe terminy zgłaszamy przez issue
 
 Zgłoszenia w `SECURITY.md`.
 
+## Źródła wiedzy
+
+Definicje w słowniku odnoszą się do tematów szczegółowo omawianych w naszych przewodnikach:
+
+**Kasyna i recenzje:**
+- [Kasyno online — przewodnik 2026](https://automaty.bet/kasyno-online/)
+- [Polskie kasyna online](https://automaty.bet/polskie-kasyna-online/)
+- [Wypłacalne kasyna online](https://automaty.bet/wyplacalne-kasyna-online/)
+- [Jak oceniamy kasyna online — metodologia](https://automaty.bet/jak-oceniamy-kasyna-online/)
+
+**Gry kasynowe:**
+- [Sloty online — przewodnik](https://automaty.bet/sloty-online/)
+- [Automaty online](https://automaty.bet/automaty-online/)
+- [Automaty darmowe](https://automaty.bet/automaty-darmowe/)
+- [Ruletka online](https://automaty.bet/ruletka-online/)
+- [Ruletka europejska](https://automaty.bet/ruletka-online/ruletka-europejska/)
+- [Ruletka amerykańska](https://automaty.bet/ruletka-online/ruletka-amerykanska/)
+- [Ruletka francuska](https://automaty.bet/ruletka-online/ruletka-francuska/)
+- [Zdrapki online](https://automaty.bet/zdrapki-online/)
+
+**Płatności w kasynach:**
+- [Kasyna z BLIK](https://automaty.bet/kasyna-z-blikiem/)
+- [Kasyna BLIK bez weryfikacji](https://automaty.bet/kasyna-blik-bez-weryfikacji/)
+- [Kasyna Skrill](https://automaty.bet/kasyna-skrill/)
+- [Kasyna Revolut](https://automaty.bet/kasyna-revolut/)
+
+**Odpowiedzialna gra:**
+- [Odpowiedzialna gra — informacje i pomoc](https://automaty.bet/odpowiedzialna-gra/)
+
+**Redakcja:**
+- [O Redakcji Automaty.bet](https://automaty.bet/o-redakcji/)
+- [Polityka redakcyjna](https://automaty.bet/polityka-redakcyjna/)
+- [Polityka korekt](https://automaty.bet/polityka-korekt/)
+
 ---
 
 ## English summary
