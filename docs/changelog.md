@@ -41,7 +41,7 @@ Format opiera się na [Keep a Changelog](https://keepachangelog.com/pl/1.1.0/), 
 - `data/glossary.json` - struktura root z metadanymi, 8 kategoriami i 4 autorami; tablica `terms` na razie pusta.
 - `data/schema.json` - JSON Schema (Draft 2020-12) walidujący root i pojedynczy term entry (wymagane: id, name, category, author, sourceUrl).
 - `README.md` - opis projektu w PL z sekcją English summary.
-- `LICENSE` (MIT) i `LICENSE-CONTENT` (CC-BY 4.0) - rozdzielona licencja kodu i treści.
+- `LICENSE` (MIT) i `LICENSE.content.md` (CC-BY 4.0) - rozdzielona licencja kodu i treści.
 - `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` (Contributor Covenant 2.1, PL), `SECURITY.md`.
 - Szablony GitHub: `new-term`, `correction`, `PULL_REQUEST_TEMPLATE`.
 - Placeholdery `widget/README.md` i `examples/README.md` z roadmapą.

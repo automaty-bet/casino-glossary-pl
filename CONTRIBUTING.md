@@ -56,7 +56,7 @@ Pull requesty z poprawkami treści lub kodu są mile widziane. Wypełnij szablon
 
 ## Licencja Twojego wkładu
 
-Składając pull request lub treść w issue, godzisz się, aby kod był objęty licencją MIT, a treść (definicje, opisy) licencją CC-BY 4.0, zgodnie z `LICENSE` i `LICENSE-CONTENT`.
+Składając pull request lub treść w issue, godzisz się, aby kod był objęty licencją MIT, a treść (definicje, opisy) licencją CC-BY 4.0, zgodnie z `LICENSE` i `LICENSE.content.md`.
 
 ## Kontakt
 

@@ -57,7 +57,7 @@ Projekt jest w fazie **0.1.0 (szkielet)**. Tablica `terms` w `data/glossary.json
 ## Licencje
 
 * **Kod** (HTML/JS/CSS/JSON Schema) - [MIT](./LICENSE)
-* **Treść** (definicje, opisy, JSON danych) - [CC-BY 4.0](./LICENSE-CONTENT)
+* **Treść** (definicje, opisy, JSON danych) - [CC-BY 4.0](./LICENSE.content.md)
 
 Korzystając z definicji wymagana jest atrybucja do "Automaty.bet" z linkiem do źródła.
 
